@@ -2,7 +2,7 @@
 
 ## Overview
 
-A web tool to find diseases associated with specific metabolites.
+A web tool to find drug associated with specific diseases.
 
 ## Features
 
