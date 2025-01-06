@@ -1,4 +1,4 @@
-# Metabolite Disease Finder
+# Drug Disease Finder
 
 ## Overview
 
@@ -8,7 +8,7 @@ A web tool to find drug associated with specific diseases.
 
 - Search for related diseases.
 - Modal dialog for results.
-- Example metabolites available.
+- Example disease available.
 - Responsive design.
 
 ## Getting Started
@@ -16,7 +16,7 @@ A web tool to find drug associated with specific diseases.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/metabolite-disease-finder.git
+   git clone https://github.com/yourusername/drug-disease-finder.git
 2. Ensure data.csv is in the project directory.
 3. Open index.html in a browser.
 
