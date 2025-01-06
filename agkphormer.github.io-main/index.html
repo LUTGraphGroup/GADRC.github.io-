@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GADRC</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="./build/style01.css">
+</head>
+
+<body>
+    <header>
+        <h1 class="double-layer">GADRC</h1>
+        <p>Drug repositioning by graph convolution-attention encoder and deep residual networks combined with weighted cross-entropy</p>
+    </header>
+    <div class="container">
+        <div class="intro">
+            <h2>Introduction</h2>
+            <p>This tool allows you to search for drug related to specific diseases. Enter the name of a disease to see associated drug and their scores. (case study)</p>
+        </div>
+        <div class="intro">
+            <h2>Materials</h2>
+            <p>Code and datasets can be obtained from <a href="https://github.com/LUTGraphGroup/GADRC_Limingxu.git" target="_blank">here</a>.</p>
+        </div>
+        <input type="text" id="drug" placeholder="Enter disease" />
+        <button onclick="queryDisease()">Search</button>
+        <button onclick="clearInput()">Clear</button>
+        <button onclick="fillExample()">Example</button>
+        <div id="results"></div>
+    </div>
+
+    <!-- 模态框 -->
+    <div id="myModal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal()">&times;</span>
+            <h2>Query Results</h2>
+            <div id="modal-results"></div>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>&copy; 2024 GADRC</p>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+    <script src="./build/script.js"></script> <!-- 引入外部 JavaScript 文件 -->
+
+</body>
+</html>

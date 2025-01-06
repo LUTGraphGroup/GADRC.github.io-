@@ -1,0 +1,6532 @@
+[
+  {
+    "disease": "alzheimer's",
+    "drug": "Oxcarbazepine",
+    "score": 0.9971169775178237
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Levetiracetam",
+    "score": 0.9960990068906425
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Primidone",
+    "score": 0.9954316796212922
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Zonisamide",
+    "score": 0.9842691080852798
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Melatonin",
+    "score": 0.9836191216597603
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Risperidone",
+    "score": 0.9819564251107845
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Scopolamine",
+    "score": 0.9802426224839144
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Hyoscyamine",
+    "score": 0.9783957117144813
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Tolcapone",
+    "score": 0.9771539132657688
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Citalopram",
+    "score": 0.976664386774333
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Mitomycin",
+    "score": 0.976218176066188
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Ifosfamide",
+    "score": 0.9761057865797941
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Glipizide",
+    "score": 0.9730312734583667
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Hydrocodone",
+    "score": 0.9678368786563343
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Ofloxacin",
+    "score": 0.9663525208884641
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Vincristine",
+    "score": 0.9652868010238648
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Carboplatin",
+    "score": 0.9604724134661061
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Colchicine",
+    "score": 0.959501833230018
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Montelukast",
+    "score": 0.9584016857971396
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Sodium tetradecyl sulfate",
+    "score": 0.9575646538408825
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Codeine",
+    "score": 0.9565885656372624
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Bupivacaine",
+    "score": 0.954360437949195
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Nimodipine",
+    "score": 0.953958751813627
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Fluoxetine",
+    "score": 0.9536658015590194
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Trifluoperazine",
+    "score": 0.9535931331962114
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Meclofenamic acid",
+    "score": 0.947182471879008
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Chlorzoxazone",
+    "score": 0.9470866621760871
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Mercaptopurine",
+    "score": 0.9470500182485888
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Clonidine",
+    "score": 0.9416737806003731
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Formoterol",
+    "score": 0.9393315545181279
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Famotidine",
+    "score": 0.9371819414279359
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Idarubicin",
+    "score": 0.9371613687055249
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Diphenidol",
+    "score": 0.9367320390197603
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Dextropropoxyphene",
+    "score": 0.93526226503116
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Labetalol",
+    "score": 0.9348101745390032
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Chloroprocaine",
+    "score": 0.9326844816022622
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Diethylstilbestrol",
+    "score": 0.9305438065449496
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Cocaine",
+    "score": 0.9296573914580716
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Neostigmine",
+    "score": 0.9272239583185501
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Niacin",
+    "score": 0.9263659782438026
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Rufinamide",
+    "score": 0.9263383743373176
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Clobetasol propionate",
+    "score": 0.9260515755745282
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Bupropion",
+    "score": 0.9251359631727806
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Anastrozole",
+    "score": 0.9250795997047838
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Carbidopa",
+    "score": 0.9225747068503564
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Allopurinol",
+    "score": 0.921938312750492
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Trimethoprim",
+    "score": 0.9195875248612865
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Naproxen",
+    "score": 0.9144082512082677
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Levobupivacaine",
+    "score": 0.9125794927269937
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Pentosan polysulfate",
+    "score": 0.9116075789225087
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Dihydrocodeine",
+    "score": 0.9052353651015741
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Morphine",
+    "score": 0.9050109424692555
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Dimetindene",
+    "score": 0.9042260315739139
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Mexiletine",
+    "score": 0.9041284849767284
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Nortriptyline",
+    "score": 0.901138507253414
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Clomipramine",
+    "score": 0.9010362754966273
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Propranolol",
+    "score": 0.8998786626671395
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Atomoxetine",
+    "score": 0.898742709405758
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Fentanyl",
+    "score": 0.8981791663438399
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Estrone",
+    "score": 0.8969563125820179
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Desogestrel",
+    "score": 0.896277568992053
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Desoximetasone",
+    "score": 0.8940875578489703
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Methylphenidate",
+    "score": 0.8901108626116488
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Bepridil",
+    "score": 0.8897361195064359
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Alimemazine",
+    "score": 0.8896095866915938
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Rasagiline",
+    "score": 0.8858774718195747
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Sotalol",
+    "score": 0.8858384513311639
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Tizanidine",
+    "score": 0.8823185200251552
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Carteolol",
+    "score": 0.8818814090727446
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Testosterone",
+    "score": 0.8817676546743765
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Disopyramide",
+    "score": 0.8809863053472742
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Olsalazine",
+    "score": 0.8800762256118153
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Alendronic acid",
+    "score": 0.8793710336068634
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Epoprostenol",
+    "score": 0.8791531970558626
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Ketorolac",
+    "score": 0.8772175397923437
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Lidocaine",
+    "score": 0.8763359117522482
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Chlorphenesin",
+    "score": 0.8739799825298169
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Pimecrolimus",
+    "score": 0.8739773479705396
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Triprolidine",
+    "score": 0.8730483300696625
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Tenoxicam",
+    "score": 0.8728455128829328
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Flurandrenolide",
+    "score": 0.8723015448187722
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Prochlorperazine",
+    "score": 0.8722545013143057
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Buclizine",
+    "score": 0.8717512309805244
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Nateglinide",
+    "score": 0.8707800517591977
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Lercanidipine",
+    "score": 0.8680360690854456
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Bleomycin",
+    "score": 0.8654324691246572
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Ondansetron",
+    "score": 0.86351798030628
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Salicylic acid",
+    "score": 0.8629706322886526
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Mecamylamine",
+    "score": 0.8627337125471248
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Dantrolene",
+    "score": 0.8570419251948411
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Thioridazine",
+    "score": 0.8553762800576225
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Naltrexone",
+    "score": 0.8546350017974795
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Sitagliptin",
+    "score": 0.8535212250279515
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Captopril",
+    "score": 0.8531146157893017
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Clidinium",
+    "score": 0.8489250181835307
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Fluticasone furoate",
+    "score": 0.8488916159272103
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Salbutamol",
+    "score": 0.8487891856096771
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Flumethasone",
+    "score": 0.8483001015938832
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Medroxyprogesterone acetate",
+    "score": 0.8466826083978647
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Modafinil",
+    "score": 0.8453284071644095
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Thiothixene",
+    "score": 0.8417614396738444
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Frovatriptan",
+    "score": 0.8391936771826659
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Sumatriptan",
+    "score": 0.8372155954835193
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Nandrolone decanoate",
+    "score": 0.8368982394253581
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Sorafenib",
+    "score": 0.8355912038335387
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Dexamethasone",
+    "score": 0.8347299661233907
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Celecoxib",
+    "score": 0.834105672994011
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Cinacalcet",
+    "score": 0.832004185300899
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Diphenylpyraline",
+    "score": 0.8313086440015338
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Adapalene",
+    "score": 0.8272630629059833
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Metamfetamine",
+    "score": 0.8251941634175533
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Dronabinol",
+    "score": 0.8211394912912253
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Auranofin",
+    "score": 0.8208907186920699
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Doxepin",
+    "score": 0.819630837599349
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Ascorbic acid",
+    "score": 0.8175769036192866
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Triamcinolone",
+    "score": 0.8157957735099807
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Estramustine",
+    "score": 0.8125893511782553
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Niclosamide",
+    "score": 0.8125589128050709
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Aminoglutethimide",
+    "score": 0.8098429120000395
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Tacrolimus",
+    "score": 0.8081128013693629
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Prednisolone",
+    "score": 0.8074229724537608
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Repaglinide",
+    "score": 0.8059964266901104
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Everolimus",
+    "score": 0.8035158527654076
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Oxaprozin",
+    "score": 0.8029592102281731
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Dicyclomine",
+    "score": 0.8028854785972086
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Imipramine",
+    "score": 0.8020575357752884
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Argatroban",
+    "score": 0.8002717476289972
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Ergotamine",
+    "score": 0.8001889974421531
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Nicergoline",
+    "score": 0.7994432868057976
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Nicardipine",
+    "score": 0.7990246668072046
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Icosapent",
+    "score": 0.7988838868249973
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Fluoxymesterone",
+    "score": 0.7959635101175971
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Amifostine",
+    "score": 0.7949283548769053
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Methotrimeprazine",
+    "score": 0.7923041161264711
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Levothyroxine",
+    "score": 0.7918095916261038
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Prilocaine",
+    "score": 0.7893160537897044
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Cromoglicic acid",
+    "score": 0.7884987409248244
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Terazosin",
+    "score": 0.7863892480888128
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Atropine",
+    "score": 0.7852913707788982
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Lamotrigine",
+    "score": 0.7846597709845756
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Rivastigmine",
+    "score": 0.7843303550579395
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Misoprostol",
+    "score": 0.7839278710463989
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Bumetanide",
+    "score": 0.7827376652370526
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Atorvastatin",
+    "score": 0.781664868840322
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Pantoprazole",
+    "score": 0.7799593954770228
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Flunisolide",
+    "score": 0.7779949326863219
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Dextromethorphan",
+    "score": 0.7772392265586414
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Azathioprine",
+    "score": 0.7758763173513965
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Estradiol",
+    "score": 0.7757327350023759
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Regorafenib",
+    "score": 0.7737965885512138
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Bisoprolol",
+    "score": 0.7736548013145161
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Metipranolol",
+    "score": 0.7670471531715437
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Minocycline",
+    "score": 0.7659225032391151
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Desmopressin",
+    "score": 0.7637705115215127
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Clomifene",
+    "score": 0.7628764908908731
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Hydroxychloroquine",
+    "score": 0.7546931028175935
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Danazol",
+    "score": 0.753309779849571
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Nedocromil",
+    "score": 0.7524604312311904
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Tacrine",
+    "score": 0.7516345808340328
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Alfuzosin",
+    "score": 0.7498301629159646
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Brinzolamide",
+    "score": 0.7484377302053594
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Fenoprofen",
+    "score": 0.7469113608034589
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Fluticasone propionate",
+    "score": 0.7450605874807333
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Fondaparinux",
+    "score": 0.7390866026763716
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Ethosuximide",
+    "score": 0.7376110152856244
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Aliskiren",
+    "score": 0.7375180934773785
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Bexarotene",
+    "score": 0.7371913920652189
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Epirubicin",
+    "score": 0.7365480945368937
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Pipobroman",
+    "score": 0.73637678309369
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Rotigotine",
+    "score": 0.7330767145396672
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Meprobamate",
+    "score": 0.7318190845537513
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Chlorpropamide",
+    "score": 0.7314325996085588
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Tirofiban",
+    "score": 0.72941746861681
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Remifentanil",
+    "score": 0.7283113782488279
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Imatinib",
+    "score": 0.7276867174501481
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Fenoldopam",
+    "score": 0.7261824306628795
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Flecainide",
+    "score": 0.725931972152377
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Erythromycin",
+    "score": 0.7250279296185258
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Buspirone",
+    "score": 0.7226692566782017
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Erlotinib",
+    "score": 0.7209565566314975
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Azelastine",
+    "score": 0.7201197065107889
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Dasatinib",
+    "score": 0.7184480391162043
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Fluocinolone acetonide",
+    "score": 0.716705619043036
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Arsenic trioxide",
+    "score": 0.7136008116255376
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Riboflavin",
+    "score": 0.7116292266573969
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Hydroxyzine",
+    "score": 0.7104986602380321
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Tymazoline",
+    "score": 0.7076697509975348
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Clotrimazole",
+    "score": 0.7069733030947973
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Teniposide",
+    "score": 0.7063664179047867
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Acamprosate",
+    "score": 0.7030599102058035
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Paclitaxel",
+    "score": 0.7006931329158399
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Ramipril",
+    "score": 0.6966029473781561
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Fosphenytoin",
+    "score": 0.6951824536980228
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Ketamine",
+    "score": 0.6933930274850211
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Miconazole",
+    "score": 0.6930040906711822
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Acetaminophen",
+    "score": 0.6903713306382417
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Ibandronate",
+    "score": 0.6896100528146657
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Flucytosine",
+    "score": 0.6890606018939821
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Sitaxentan",
+    "score": 0.6884838677888551
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Olopatadine",
+    "score": 0.688164475177115
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Diphenhydramine",
+    "score": 0.6880642738283103
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Melatonin",
+    "score": 0.6856929454313889
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Profenamine",
+    "score": 0.6852953539249408
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Spironolactone",
+    "score": 0.6844127048056453
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Cefazolin",
+    "score": 0.6790872657672321
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Lovastatin",
+    "score": 0.6786076014124288
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Rifampicin",
+    "score": 0.6783144923050712
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Megestrol acetate",
+    "score": 0.6772683999041184
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Mequitazine",
+    "score": 0.6763018281267106
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Isothipendyl",
+    "score": 0.6762631868785536
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Ethinylestradiol",
+    "score": 0.6760723585176649
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Methyldopa",
+    "score": 0.6738604100576719
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Balsalazide",
+    "score": 0.6729478534051104
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Omacetaxine mepesuccinate",
+    "score": 0.6720407813319598
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Losartan",
+    "score": 0.671029737520796
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Phenytoin",
+    "score": 0.6703623541543274
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Penbutolol",
+    "score": 0.669996465196719
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Desonide",
+    "score": 0.6694784897913161
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Papaverine",
+    "score": 0.6688774307782868
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Bicalutamide",
+    "score": 0.6682242318272509
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Lapatinib",
+    "score": 0.6681423634348106
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Conjugated estrogens",
+    "score": 0.6680170033226369
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Amiodarone",
+    "score": 0.6674717485922028
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Ephedrine",
+    "score": 0.6668680589623512
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Verapamil",
+    "score": 0.6668062149743396
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Ibuprofen",
+    "score": 0.6662277231163796
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Alprostadil",
+    "score": 0.6653391444586075
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Decitabine",
+    "score": 0.665137475639204
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Isoprenaline",
+    "score": 0.6617613377045801
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Fluorouracil",
+    "score": 0.6598575266005436
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Hyoscyamine",
+    "score": 0.6594175565741869
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Chlorpromazine",
+    "score": 0.6561024700412924
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Encainide",
+    "score": 0.6557630274512725
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Tioguanine",
+    "score": 0.6554882571551921
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Metoprolol",
+    "score": 0.6549366383318335
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Canagliflozin",
+    "score": 0.6548788815786329
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Lisuride",
+    "score": 0.6523192735888644
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Octreotide",
+    "score": 0.647233711982355
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Benzatropine",
+    "score": 0.6466535812578407
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Methadone",
+    "score": 0.6457761195351491
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Amiloride",
+    "score": 0.6427186644046164
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Pamidronic acid",
+    "score": 0.642486555277591
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Tamsulosin",
+    "score": 0.6423821758245227
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Nizatidine",
+    "score": 0.6399315411310292
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Benazepril",
+    "score": 0.6388808127796141
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Fluorometholone",
+    "score": 0.6372360947407744
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Isoleucine",
+    "score": 0.6347331932559115
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Buprenorphine",
+    "score": 0.6331967974885814
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Raloxifene",
+    "score": 0.6327701165624391
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Pyridostigmine",
+    "score": 0.6321337943100216
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Phenylpropanolamine",
+    "score": 0.6304075406964236
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Tiagabine",
+    "score": 0.6301031033638937
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Trandolapril",
+    "score": 0.6299858849076567
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Ethotoin",
+    "score": 0.6295416328035898
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Dextroamphetamine",
+    "score": 0.624756012536479
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Magnesium sulfate",
+    "score": 0.6159988333842304
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Vorinostat",
+    "score": 0.6159694134707738
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Fulvestrant",
+    "score": 0.6158435350039229
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Disulfiram",
+    "score": 0.615703343825051
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Hydrocortisone",
+    "score": 0.612875756439096
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Betaxolol",
+    "score": 0.6112747340590527
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Sildenafil",
+    "score": 0.6100096690054537
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Perindopril",
+    "score": 0.6086908679187399
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Trihexyphenidyl",
+    "score": 0.6060767113678458
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Sertraline",
+    "score": 0.6021421247922258
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Goserelin",
+    "score": 0.6018380998869882
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Cyclizine",
+    "score": 0.600982235207176
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Methoxsalen",
+    "score": 0.5999223735408261
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Hydrochlorothiazide",
+    "score": 0.59671627476843
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Glucosamine",
+    "score": 0.5957873657237911
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Butalbital",
+    "score": 0.5948986071380371
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Hydralazine",
+    "score": 0.5932848278590833
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Fenofibrate",
+    "score": 0.5911408043641703
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Norethisterone",
+    "score": 0.5910529584385776
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Ibutilide",
+    "score": 0.5878466720138841
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Diethylpropion",
+    "score": 0.5871547329710484
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Alosetron",
+    "score": 0.5833528892026785
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Acetophenazine",
+    "score": 0.5820923442392912
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Dinoprostone",
+    "score": 0.5818012896873817
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Quetiapine",
+    "score": 0.5801637262530116
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Isosorbide mononitrate",
+    "score": 0.5793987596841564
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Pregabalin",
+    "score": 0.5792247411692767
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Busulfan",
+    "score": 0.5787258244588475
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Bendroflumethiazide",
+    "score": 0.5784741774732188
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Loteprednol",
+    "score": 0.5743941412194526
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Lorazepam",
+    "score": 0.5732448458253654
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Temozolomide",
+    "score": 0.5688555385865233
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Rizatriptan",
+    "score": 0.5656140534965186
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Rabeprazole",
+    "score": 0.5616950320071444
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Brimonidine",
+    "score": 0.5613181790812796
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Pemetrexed",
+    "score": 0.5606307809750267
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Nadolol",
+    "score": 0.5591402326862913
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Melphalan",
+    "score": 0.55837951402774
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Ulobetasol",
+    "score": 0.5567890002528041
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Acetazolamide",
+    "score": 0.5501707924024614
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Diazepam",
+    "score": 0.54951415697738
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Acetohexamide",
+    "score": 0.5493543054120291
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Guanadrel",
+    "score": 0.548254519675951
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Sodium bicarbonate",
+    "score": 0.5447101104307557
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Valsartan",
+    "score": 0.5427451051710697
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Amrinone",
+    "score": 0.5415695822787494
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Pentazocine",
+    "score": 0.5402938096677959
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Enalapril",
+    "score": 0.5398062260290724
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Treprostinil",
+    "score": 0.5381317612021586
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Nilotinib",
+    "score": 0.5375686653196079
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Levocarnitine",
+    "score": 0.5355978401801132
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Lenalidomide",
+    "score": 0.5317824866238404
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Calcifediol",
+    "score": 0.5307004245167948
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Almotriptan",
+    "score": 0.5295057112347485
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Aripiprazole",
+    "score": 0.527560047560451
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Leucovorin",
+    "score": 0.5250913982660503
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Clonazepam",
+    "score": 0.5232865863109157
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Isosorbide dinitrate",
+    "score": 0.5221469646683476
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Propafenone",
+    "score": 0.5160638821253505
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Tadalafil",
+    "score": 0.5150801931231316
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Methimazole",
+    "score": 0.5144181917643723
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Lubiprostone",
+    "score": 0.5143329856537482
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Vinorelbine",
+    "score": 0.5114239091928457
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Dexbrompheniramine",
+    "score": 0.509854167469792
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Prednisone",
+    "score": 0.5087143234644401
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Lithium cation",
+    "score": 0.5079523321189253
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Fexofenadine",
+    "score": 0.5055173683706978
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Iloprost",
+    "score": 0.5023569643848719
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Exemestane",
+    "score": 0.5018085467466155
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Mometasone",
+    "score": 0.500459017816439
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Acetylsalicylic acid",
+    "score": 0.49871747956962553
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Carbinoxamine",
+    "score": 0.4922575106949141
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Orciprenaline",
+    "score": 0.4901118928959177
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Phendimetrazine",
+    "score": 0.4899602087532626
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Levamisole",
+    "score": 0.48689132880348507
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Mephenytoin",
+    "score": 0.4868567859711572
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Oxybutynin",
+    "score": 0.4835966607967618
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Thiamine",
+    "score": 0.4803830912208722
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Etodolac",
+    "score": 0.4792812550097063
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Chloropyramine",
+    "score": 0.4782544962947398
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Miglustat",
+    "score": 0.47654311518640535
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Bosentan",
+    "score": 0.46932329475171874
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Sucralfate",
+    "score": 0.4692683070896926
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Adenosine",
+    "score": 0.4684259911643671
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Tolbutamide",
+    "score": 0.46736985885334625
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Levobunolol",
+    "score": 0.46581514465394613
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Simvastatin",
+    "score": 0.4656163312768995
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Dihydroergotamine",
+    "score": 0.46446147567261986
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Nabumetone",
+    "score": 0.4636630386513445
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Paroxetine",
+    "score": 0.46111152120920296
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Alclometasone",
+    "score": 0.4595183382731166
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Butorphanol",
+    "score": 0.4589733989747088
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Salsalate",
+    "score": 0.45884062095615663
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Arginine",
+    "score": 0.45085931388677214
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Tetracycline",
+    "score": 0.45022708481216556
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Ethanol",
+    "score": 0.4496813995755552
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Ranitidine",
+    "score": 0.4486041383907293
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Nandrolone phenpropionate",
+    "score": 0.44851939746269853
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Astemizole",
+    "score": 0.4483128173342307
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Candesartan cilexetil",
+    "score": 0.44814702654827054
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Clopidogrel",
+    "score": 0.444758382501664
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Lansoprazole",
+    "score": 0.444460434217568
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Bortezomib",
+    "score": 0.4431124188763522
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Isotretinoin",
+    "score": 0.4412726103677611
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Cysteamine",
+    "score": 0.43872326474437773
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Nitroglycerin",
+    "score": 0.4384325787980342
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Chlorpheniramine",
+    "score": 0.4362971713842757
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Loratadine",
+    "score": 0.4352141823015123
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Ioflupane I-123",
+    "score": 0.432931598177562
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Torasemide",
+    "score": 0.4311665989534148
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Thalidomide",
+    "score": 0.4266727669921947
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Clemastine",
+    "score": 0.4257854206613422
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Dihydrotachysterol",
+    "score": 0.4214791142150769
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Sulfasalazine",
+    "score": 0.4202479487417491
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Clobazam",
+    "score": 0.41773295410875255
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Medrysone",
+    "score": 0.41754909120378614
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Dopamine",
+    "score": 0.41629433971087626
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Zileuton",
+    "score": 0.4156486544693191
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Streptozocin",
+    "score": 0.4129971417490206
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Carmustine",
+    "score": 0.41217388435192914
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Donepezil",
+    "score": 0.4097148747533159
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Risedronic acid",
+    "score": 0.4078473031358063
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Phenelzine",
+    "score": 0.40654012126319783
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Levodopa",
+    "score": 0.4053972704583314
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Amobarbital",
+    "score": 0.4046317119078573
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Levonorgestrel",
+    "score": 0.40455773409274964
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Calcitriol",
+    "score": 0.40382402790407523
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Chlordiazepoxide",
+    "score": 0.4030463243222173
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Nitroprusside",
+    "score": 0.3967752616239206
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Indapamide",
+    "score": 0.39442071314847116
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Liothyronine",
+    "score": 0.3942155250232856
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Mesalazine",
+    "score": 0.39336281873792767
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Citalopram",
+    "score": 0.3908503292319596
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Alitretinoin",
+    "score": 0.39046870434434666
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Verteporfin",
+    "score": 0.3869259027088493
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Imiquimod",
+    "score": 0.38624804756156494
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Oxycodone",
+    "score": 0.38462537290259824
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Gabapentin",
+    "score": 0.38371385984086503
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Procaine",
+    "score": 0.380742267083477
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Naratriptan",
+    "score": 0.38034105984852584
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Benzquinamide",
+    "score": 0.3792982749872692
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Progesterone",
+    "score": 0.375833430041538
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Galantamine",
+    "score": 0.3750989026207784
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Glimepiride",
+    "score": 0.37351791632091813
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Letrozole",
+    "score": 0.37312132757110694
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Ketoconazole",
+    "score": 0.3723672064058473
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Latanoprost",
+    "score": 0.3720470954662719
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Desloratadine",
+    "score": 0.36776464502058404
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Primidone",
+    "score": 0.3659434432740859
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Dyphylline",
+    "score": 0.3647085584065042
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Phentolamine",
+    "score": 0.3646815577912882
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Ropinirole",
+    "score": 0.3643530293928513
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Beclomethasone dipropionate",
+    "score": 0.36430487193692074
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Penicillamine",
+    "score": 0.35694975113287375
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Midodrine",
+    "score": 0.35394910986064754
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Ketotifen",
+    "score": 0.3503560382687102
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "N-Acetylglucosamine",
+    "score": 0.3474623528405131
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Tretinoin",
+    "score": 0.3446289580911438
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Inulin",
+    "score": 0.34457951422344313
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Hydromorphone",
+    "score": 0.3432522791582163
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Ketoprofen",
+    "score": 0.34291363203714764
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Antazoline",
+    "score": 0.34243090008524213
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Bromodiphenhydramine",
+    "score": 0.34220674549253705
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Clofarabine",
+    "score": 0.3408278503747788
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Cyclophosphamide",
+    "score": 0.3395076784123049
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Methylprednisolone",
+    "score": 0.3357436648743193
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Olanzapine",
+    "score": 0.33525591784253905
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Quinidine",
+    "score": 0.3342347002891658
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Vinblastine",
+    "score": 0.33256805765664155
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Epinastine",
+    "score": 0.33206991875930725
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Loxapine",
+    "score": 0.32835175101805103
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Tiludronic acid",
+    "score": 0.32245000063038365
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Cyproheptadine",
+    "score": 0.32197811836998247
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Diclofenamide",
+    "score": 0.3208932616899933
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Orlistat",
+    "score": 0.3202007509131837
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Duloxetine",
+    "score": 0.31942260460006155
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Norgestimate",
+    "score": 0.3169480325589966
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Capecitabine",
+    "score": 0.3158010522316266
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Furosemide",
+    "score": 0.3146140474728518
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Nifedipine",
+    "score": 0.31177776623466813
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Anisindione",
+    "score": 0.3093985466306294
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Esmolol",
+    "score": 0.3073128978427807
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Methotrexate",
+    "score": 0.30722045761307715
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Omeprazole",
+    "score": 0.3055901946941787
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Chloroquine",
+    "score": 0.3040638148586785
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Entacapone",
+    "score": 0.3020884063113699
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Zafirlukast",
+    "score": 0.3006343413248199
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Ciprofloxacin",
+    "score": 0.2993148273750076
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Etacrynic acid",
+    "score": 0.29804975916713916
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Bromfenac",
+    "score": 0.2961790371058888
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Orphenadrine",
+    "score": 0.29226138464733753
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Aminophylline",
+    "score": 0.29197679103942475
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Esomeprazole",
+    "score": 0.2910958421638321
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Rosiglitazone",
+    "score": 0.29093779904897454
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Phentermine",
+    "score": 0.28524040697447184
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Mefenamic acid",
+    "score": 0.28175820904601
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Finasteride",
+    "score": 0.2806224896331685
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Tolazamide",
+    "score": 0.27666263275967506
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Ergocalciferol",
+    "score": 0.2762606023260191
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Benzonatate",
+    "score": 0.27594948640926165
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Topotecan",
+    "score": 0.2759082200731068
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Reserpine",
+    "score": 0.27363974536601865
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Brompheniramine",
+    "score": 0.2667430851884378
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Tamoxifen",
+    "score": 0.2642451270956375
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Baclofen",
+    "score": 0.26399520713402336
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Desflurane",
+    "score": 0.2639189068318163
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Fluvastatin",
+    "score": 0.2621178958660967
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Saquinavir",
+    "score": 0.2613365499978191
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Prazosin",
+    "score": 0.2608999279998834
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Glyburide",
+    "score": 0.2608523636943363
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Sibutramine",
+    "score": 0.2588366754178384
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Felbamate",
+    "score": 0.25845307625484215
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Memantine",
+    "score": 0.25515225100771055
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Apomorphine",
+    "score": 0.25453482950423567
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Irbesartan",
+    "score": 0.249321769635791
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Salmeterol",
+    "score": 0.2492450517820134
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Metyrosine",
+    "score": 0.2485254626669754
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Vigabatrin",
+    "score": 0.24728895109944482
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Eprosartan",
+    "score": 0.24548905613495076
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Benzocaine",
+    "score": 0.24456545112728256
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Oxymorphone",
+    "score": 0.243867424884884
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "gamma-Hydroxybutyric acid",
+    "score": 0.24061985584036827
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Atazanavir",
+    "score": 0.24006736594734746
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Azatadine",
+    "score": 0.23997270695385953
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Gemfibrozil",
+    "score": 0.23989248805686392
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Cefdinir",
+    "score": 0.2385562814522536
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Cabergoline",
+    "score": 0.23618758283002883
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Ciclesonide",
+    "score": 0.23607703782697675
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Chlorothiazide",
+    "score": 0.23399072697791345
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Biperiden",
+    "score": 0.2335392191412078
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Amphetamine",
+    "score": 0.23225144260064667
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Vitamin E",
+    "score": 0.23189300930526557
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Dexrazoxane",
+    "score": 0.23176753809350492
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Vitamin A",
+    "score": 0.2315880476610861
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Tranexamic acid",
+    "score": 0.22965281133144333
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Sulindac",
+    "score": 0.22857380429799457
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Phenoxybenzamine",
+    "score": 0.2224640446456121
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Fosinopril",
+    "score": 0.2171853876281623
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Itraconazole",
+    "score": 0.2165872491877996
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Flutamide",
+    "score": 0.2143192123608204
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Pralidoxime",
+    "score": 0.211929767083606
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Fluphenazine",
+    "score": 0.21118186990886922
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Lisdexamfetamine",
+    "score": 0.21064048160398052
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Norepinephrine",
+    "score": 0.20993745074528725
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Etoricoxib",
+    "score": 0.2094133533827215
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Nebivolol",
+    "score": 0.20916276404078327
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Amitriptyline",
+    "score": 0.20510191060716532
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Ambenonium",
+    "score": 0.20332876797994426
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Tramadol",
+    "score": 0.2029335516089833
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Guanfacine",
+    "score": 0.19897751363474114
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Phenobarbital",
+    "score": 0.19890629976847474
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Pramipexole",
+    "score": 0.19590473373370465
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Atenolol",
+    "score": 0.19588164914679007
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Rosuvastatin",
+    "score": 0.19569141779952437
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Indomethacin",
+    "score": 0.19540322237829966
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Cisapride",
+    "score": 0.19403120857644285
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Mifepristone",
+    "score": 0.19368266545462665
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Amantadine",
+    "score": 0.1921839822751904
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Valproic acid",
+    "score": 0.1898518670720467
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Flavoxate",
+    "score": 0.18934233377561005
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Zoledronic acid",
+    "score": 0.18861540042149016
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Pseudoephedrine",
+    "score": 0.18578248658605234
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Timolol",
+    "score": 0.18473635671409505
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Enoxaparin",
+    "score": 0.1844224004497349
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Amlodipine",
+    "score": 0.1832763211022418
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Guanidine",
+    "score": 0.18230842292129068
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Terfenadine",
+    "score": 0.18128447214756827
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Olmesartan",
+    "score": 0.1812239670727892
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Theophylline",
+    "score": 0.180292596724691
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Bimatoprost",
+    "score": 0.18008109483922707
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Epinephrine",
+    "score": 0.17987800469987425
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Gonadorelin",
+    "score": 0.1789509368901585
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Clofibrate",
+    "score": 0.17292343072607252
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Cholecalciferol",
+    "score": 0.17093464694282245
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Stanozolol",
+    "score": 0.1688757761783486
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Moxifloxacin",
+    "score": 0.16881564209152589
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Bromocriptine",
+    "score": 0.1683214286861363
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Haloperidol",
+    "score": 0.1682458500414724
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Lisinopril",
+    "score": 0.16572392266549574
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Diflunisal",
+    "score": 0.16267177927651755
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Guanethidine",
+    "score": 0.16130679941236026
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Cinchocaine",
+    "score": 0.16098508705753345
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Cimetidine",
+    "score": 0.16047491937347758
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Nalbuphine",
+    "score": 0.15866141058858207
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Diltiazem",
+    "score": 0.15349112245184904
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Ezetimibe",
+    "score": 0.15142224776387347
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Levocabastine",
+    "score": 0.1476842367711092
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Diatrizoate",
+    "score": 0.14738316590193035
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Ticlopidine",
+    "score": 0.14584038993912474
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Cetirizine",
+    "score": 0.1455849263424881
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Phenylephrine",
+    "score": 0.14520593639676738
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Mechlorethamine",
+    "score": 0.14332419731446233
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Carvedilol",
+    "score": 0.14279805958576575
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Clozapine",
+    "score": 0.14272591148739788
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Dacarbazine",
+    "score": 0.14120838709084027
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Propylthiouracil",
+    "score": 0.14110536158624176
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Chlorthalidone",
+    "score": 0.1404689918219747
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Adenosine phosphate",
+    "score": 0.1402482655507542
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Levofloxacin",
+    "score": 0.13995507887492287
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Acarbose",
+    "score": 0.13748617871958912
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Metolazone",
+    "score": 0.1305253417522434
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Triflupromazine",
+    "score": 0.1285073481501623
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Irinotecan",
+    "score": 0.1279919672382529
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Daunorubicin",
+    "score": 0.12515878572407924
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Fludarabine",
+    "score": 0.12432492399470652
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Nisoldipine",
+    "score": 0.1216930003966632
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Mesoridazine",
+    "score": 0.1213322815730904
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Topiramate",
+    "score": 0.12128458855738466
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Travoprost",
+    "score": 0.12061079738645641
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Budesonide",
+    "score": 0.12035883110199719
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Sunitinib",
+    "score": 0.11891812002448277
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Bethanechol",
+    "score": 0.11861776623774278
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Etidronic acid",
+    "score": 0.11733440098832304
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Isoetharine",
+    "score": 0.11354816041173643
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Cytarabine",
+    "score": 0.1111985948625821
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Acebutolol",
+    "score": 0.11089367110350357
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Pioglitazone",
+    "score": 0.1095819713460261
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Dofetilide",
+    "score": 0.10916461968236046
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Folic acid",
+    "score": 0.10749941309717415
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Venlafaxine",
+    "score": 0.1068072126596421
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Pyridoxine",
+    "score": 0.10539878748716958
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Selegiline",
+    "score": 0.10116799159645073
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Telmisartan",
+    "score": 0.10090147882754963
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Azelaic acid",
+    "score": 0.10084339567305767
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Azacitidine",
+    "score": 0.10041228318500306
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Ipratropium",
+    "score": 0.10023830563987046
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Desipramine",
+    "score": 0.09936896241246296
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Amsacrine",
+    "score": 0.09905347936458908
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Ardeparin",
+    "score": 0.09673649391630235
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Procyclidine",
+    "score": 0.09502088543296083
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Lumiracoxib",
+    "score": 0.09400768958918448
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Cyanocobalamin",
+    "score": 0.09209233408988182
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Ponatinib",
+    "score": 0.09182435508920217
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Zolmitriptan",
+    "score": 0.09181312023383592
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Piroxicam",
+    "score": 0.09060573553911477
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Gemcitabine",
+    "score": 0.08673927937943082
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Metoclopramide",
+    "score": 0.08610077238674474
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Acyclovir",
+    "score": 0.083188587832005
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Quinine",
+    "score": 0.07932282105516619
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Alprazolam",
+    "score": 0.07810507468645955
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Promethazine",
+    "score": 0.07565289557971056
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Dipyridamole",
+    "score": 0.07398694110007276
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Trimetrexate",
+    "score": 0.07374912173692505
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Cisplatin",
+    "score": 0.07362547019544163
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Pheniramine",
+    "score": 0.0731917031762549
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Pentoxifylline",
+    "score": 0.07128416418623829
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Moexipril",
+    "score": 0.0705873238232787
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Fluvoxamine",
+    "score": 0.06927926650317451
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Paliperidone",
+    "score": 0.06805341672057108
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Masoprocol",
+    "score": 0.06761680459967723
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Metformin",
+    "score": 0.06276443137852616
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Granisetron",
+    "score": 0.059941317608472655
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Tetrabenazine",
+    "score": 0.05968614940123229
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Miglitol",
+    "score": 0.05874215956424811
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Doxylamine",
+    "score": 0.05830932972058056
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Etoposide",
+    "score": 0.05760003904390576
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Doxorubicin",
+    "score": 0.056042324232489116
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Valrubicin",
+    "score": 0.05297285446274491
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Praziquantel",
+    "score": 0.05225257004737005
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Tolmetin",
+    "score": 0.04952392732965161
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Triamterene",
+    "score": 0.04897209522133028
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Felodipine",
+    "score": 0.04735777565916066
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Choline",
+    "score": 0.04495580139297484
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Dorzolamide",
+    "score": 0.044384073538878854
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Pirbuterol",
+    "score": 0.043441404471150746
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Hydroxocobalamin",
+    "score": 0.04287403728554573
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Diclofenac",
+    "score": 0.041710228390097304
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Alanine",
+    "score": 0.04100892050668947
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Ciclopirox",
+    "score": 0.0375994524969282
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Pindolol",
+    "score": 0.037120728642834444
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Flurbiprofen",
+    "score": 0.03677406039743547
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Dipivefrin",
+    "score": 0.03618208942834855
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Meperidine",
+    "score": 0.0358580142809265
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Carbamazepine",
+    "score": 0.03513552285015298
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Pilocarpine",
+    "score": 0.03423496123416225
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Eletriptan",
+    "score": 0.03394845230001031
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Spaglumic acid",
+    "score": 0.031107834237837917
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Hydroxyurea",
+    "score": 0.030240168533788525
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Meloxicam",
+    "score": 0.02943021998159301
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Cyclosporine",
+    "score": 0.025463005124092386
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Betamethasone",
+    "score": 0.02155923932133008
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Isradipine",
+    "score": 0.0200467959097006
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Warfarin",
+    "score": 0.018977602366904378
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Methylergometrine",
+    "score": 0.01884469121779364
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Fludrocortisone",
+    "score": 0.018311867629998035
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Pergolide",
+    "score": 0.017426506091537286
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Emedastine",
+    "score": 0.014954434560336294
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Cyclobenzaprine",
+    "score": 0.01432735113660244
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Methyclothiazide",
+    "score": 0.014217717781611294
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Drospirenone",
+    "score": 0.014094420434076604
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Terbutaline",
+    "score": 0.013378854410742158
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Ziprasidone",
+    "score": 0.01062698070459478
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Methyl aminolevulinate",
+    "score": 0.007212129474202356
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Dolasetron",
+    "score": 0.007187781813631555
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Doxazosin",
+    "score": 0.003287748388439815
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Temsirolimus",
+    "score": 0.0025961813154813385
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Digoxin",
+    "score": 0.0022687614469216744
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Caffeine",
+    "score": 0.002133402978942822
+  },
+  {
+    "disease": "alzheimer's",
+    "drug": "Docetaxel",
+    "score": 0.001949842260570378
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Medroxyprogesterone acetate",
+    "score": 0.9983153358050753
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Pemetrexed",
+    "score": 0.997913421982145
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Methyl aminolevulinate",
+    "score": 0.9962120242055643
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Vorinostat",
+    "score": 0.9946232658917319
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Norethisterone",
+    "score": 0.9940830675405955
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Temsirolimus",
+    "score": 0.9894602179829514
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Cladribine",
+    "score": 0.9889917204045056
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Mitoxantrone",
+    "score": 0.9884143237983932
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Vincristine",
+    "score": 0.9871245763581211
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Pentostatin",
+    "score": 0.9862919037350508
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Ketoconazole",
+    "score": 0.9861633404961088
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Levetiracetam",
+    "score": 0.9850272061723528
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Fenoprofen",
+    "score": 0.9839104871499849
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Bepridil",
+    "score": 0.9832768559979861
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Cyclizine",
+    "score": 0.9819578259607485
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Arsenic trioxide",
+    "score": 0.9814801789696255
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Verapamil",
+    "score": 0.9808816376051067
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Tolazamide",
+    "score": 0.9798441671060024
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Encainide",
+    "score": 0.9790586221687742
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Dextroamphetamine",
+    "score": 0.9727791990943365
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Nisoldipine",
+    "score": 0.9720061978055498
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Anisindione",
+    "score": 0.9703845474250612
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Stanozolol",
+    "score": 0.9671337820078247
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Penicillamine",
+    "score": 0.9668363678157049
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Ethinylestradiol",
+    "score": 0.9659181483137634
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Epinastine",
+    "score": 0.9607621557838989
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Ramipril",
+    "score": 0.960056548034331
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Rosiglitazone",
+    "score": 0.9597544735151192
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Metamfetamine",
+    "score": 0.9580250631157299
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Haloperidol",
+    "score": 0.9542868360484177
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Perindopril",
+    "score": 0.9540839593603683
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Iloprost",
+    "score": 0.9504213250510898
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Labetalol",
+    "score": 0.9493965331710484
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Estrone",
+    "score": 0.9461514847583323
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Minoxidil",
+    "score": 0.9451412952368755
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Fludrocortisone",
+    "score": 0.9447438516177696
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Ponatinib",
+    "score": 0.944517998570885
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Loteprednol",
+    "score": 0.9424813599101299
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Fluticasone propionate",
+    "score": 0.9420197441416713
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Finasteride",
+    "score": 0.9402918444549662
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Acetylsalicylic acid",
+    "score": 0.9397338377517104
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Norepinephrine",
+    "score": 0.9384986425137047
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Bromocriptine",
+    "score": 0.9354804498672753
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Moxifloxacin",
+    "score": 0.9349372434943733
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Brimonidine",
+    "score": 0.9347955296778996
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Sodium tetradecyl sulfate",
+    "score": 0.9312430975082604
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Flumethasone",
+    "score": 0.9283899368522194
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Meperidine",
+    "score": 0.9267432381333077
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Metyrosine",
+    "score": 0.9255260954712532
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Isradipine",
+    "score": 0.9244171504531963
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Fluoxetine",
+    "score": 0.9215493688354572
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Dantrolene",
+    "score": 0.9195570098335982
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Phenylephrine",
+    "score": 0.917790077576033
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Vigabatrin",
+    "score": 0.916787957105347
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Imiquimod",
+    "score": 0.9160888804941185
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Ergotamine",
+    "score": 0.9135256296374894
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Dihydrotachysterol",
+    "score": 0.9133590547066764
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Phentermine",
+    "score": 0.9128313701092476
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Lithium cation",
+    "score": 0.911322252796086
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Pentostatin",
+    "score": 0.9089613481680848
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Clomifene",
+    "score": 0.9072489716834464
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Acetaminophen",
+    "score": 0.9071385857987984
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Oxaprozin",
+    "score": 0.9070308100181541
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Metolazone",
+    "score": 0.9043150944523851
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Alimemazine",
+    "score": 0.904205599417469
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Rizatriptan",
+    "score": 0.9006809448080794
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Tranexamic acid",
+    "score": 0.9005504689087153
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Bendroflumethiazide",
+    "score": 0.8977203345042449
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Felbamate",
+    "score": 0.8953034755153514
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Flurbiprofen",
+    "score": 0.8940702616429522
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Amlodipine",
+    "score": 0.8919445942136294
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Isoetharine",
+    "score": 0.8896075191133984
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Atenolol",
+    "score": 0.8895045553806746
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Acyclovir",
+    "score": 0.8884255928530695
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Sodium bicarbonate",
+    "score": 0.8881659013919182
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Tolbutamide",
+    "score": 0.8832113715539911
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "gamma-Hydroxybutyric acid",
+    "score": 0.8830362899420785
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Hydrocortisone",
+    "score": 0.8821158310333534
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Diethylstilbestrol",
+    "score": 0.8814508307186382
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Paliperidone",
+    "score": 0.8805533382555659
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Paclitaxel",
+    "score": 0.8776070675030798
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Ketotifen",
+    "score": 0.877508909021501
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Furosemide",
+    "score": 0.877429935112154
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Niclosamide",
+    "score": 0.8767538433469868
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Amobarbital",
+    "score": 0.8761565479890063
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Fluticasone furoate",
+    "score": 0.8674243078947734
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Buclizine",
+    "score": 0.8659434509386573
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Aminoglutethimide",
+    "score": 0.8643544010374332
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Vitamin E",
+    "score": 0.8626010837784422
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Idarubicin",
+    "score": 0.8596958613523651
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Dipivefrin",
+    "score": 0.8579049990860858
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Trioxsalen",
+    "score": 0.856156667566617
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Tirofiban",
+    "score": 0.8557881421052387
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Tiludronic acid",
+    "score": 0.8554021749438672
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Benzquinamide",
+    "score": 0.8507424388192834
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Minocycline",
+    "score": 0.8492364235419589
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Papaverine",
+    "score": 0.8439675208696716
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Dihydrocodeine",
+    "score": 0.8407491628339328
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Acetohexamide",
+    "score": 0.8388582036992708
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Argatroban",
+    "score": 0.8378025194492105
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Budesonide",
+    "score": 0.8371405402141867
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Ephedrine",
+    "score": 0.8351406442079784
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Guanfacine",
+    "score": 0.8345935971100862
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Dofetilide",
+    "score": 0.83444722226901
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Flucytosine",
+    "score": 0.8330206111923139
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Isoleucine",
+    "score": 0.8316015547519143
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Valproic acid",
+    "score": 0.8294001755884244
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Mechlorethamine",
+    "score": 0.8236635507775012
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Azatadine",
+    "score": 0.8208177281254544
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Ethanol",
+    "score": 0.8204349034974503
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Cyproheptadine",
+    "score": 0.82042810740412
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Sitagliptin",
+    "score": 0.8192442898026951
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Nateglinide",
+    "score": 0.8190018249582655
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Trandolapril",
+    "score": 0.8125332111272091
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Neostigmine",
+    "score": 0.8116810191069204
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Tamoxifen",
+    "score": 0.8110901708607715
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Fluvoxamine",
+    "score": 0.8072736162988181
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Fentanyl",
+    "score": 0.8065380822748281
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Clonidine",
+    "score": 0.8049538278203576
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Cisplatin",
+    "score": 0.8037877982153329
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Mifepristone",
+    "score": 0.8030685517567068
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Ethosuximide",
+    "score": 0.7989383097781046
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Fluorouracil",
+    "score": 0.798482611401255
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Atazanavir",
+    "score": 0.7959697890933211
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Fexofenadine",
+    "score": 0.7921410832734318
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Dinoprostone",
+    "score": 0.7901905574699271
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Folic acid",
+    "score": 0.7854257579360212
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Remifentanil",
+    "score": 0.785241498239227
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Pentazocine",
+    "score": 0.7833492980452547
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Losartan",
+    "score": 0.7827928077946409
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Pregabalin",
+    "score": 0.7799701076937269
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Cimetidine",
+    "score": 0.7792945120086837
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Metoprolol",
+    "score": 0.7766022196284561
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Carvedilol",
+    "score": 0.7758665728433753
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Amantadine",
+    "score": 0.7754884409832415
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Quinine",
+    "score": 0.7753841047552721
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Tiagabine",
+    "score": 0.7746892533703521
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Adenosine phosphate",
+    "score": 0.7743338509533069
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Triamterene",
+    "score": 0.7736643415631845
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Carmustine",
+    "score": 0.7733692744248424
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Epinephrine",
+    "score": 0.772352250927423
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Diflunisal",
+    "score": 0.7720192456221979
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Pentosan polysulfate",
+    "score": 0.77051795530242
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Cyclophosphamide",
+    "score": 0.7683119105850279
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Nicardipine",
+    "score": 0.7678971192068382
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Ciclesonide",
+    "score": 0.7673542217290187
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Nabumetone",
+    "score": 0.766512618450577
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Dorzolamide",
+    "score": 0.7651625279774975
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Levodopa",
+    "score": 0.7638230014563845
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Bumetanide",
+    "score": 0.7633846102240469
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Topotecan",
+    "score": 0.7619340643342589
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Bosentan",
+    "score": 0.7611891203584695
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Canagliflozin",
+    "score": 0.760383757494699
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Teniposide",
+    "score": 0.7595430480947309
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Omeprazole",
+    "score": 0.7589390385762987
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Hydralazine",
+    "score": 0.7586717896120216
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Levothyroxine",
+    "score": 0.7586539571311591
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Thalidomide",
+    "score": 0.7576966618788904
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Esomeprazole",
+    "score": 0.7573771074353055
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Sunitinib",
+    "score": 0.7560367114925766
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Carbamazepine",
+    "score": 0.7528865014838343
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Prazosin",
+    "score": 0.7518048944605716
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Ioflupane I-123",
+    "score": 0.7514315558415993
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Gemfibrozil",
+    "score": 0.7495787570361853
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Spaglumic acid",
+    "score": 0.7460823014491464
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Isoprenaline",
+    "score": 0.7456312858548402
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Risperidone",
+    "score": 0.7452245193735162
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Ticlopidine",
+    "score": 0.7441650473521004
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Mecamylamine",
+    "score": 0.7437218683270607
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Gabapentin",
+    "score": 0.74368186003227
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Arginine",
+    "score": 0.7412657121108789
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Medrysone",
+    "score": 0.7397442414062212
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Methyldopa",
+    "score": 0.7389682967889997
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Acetophenazine",
+    "score": 0.7376766995749622
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Isotretinoin",
+    "score": 0.7376018654992326
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Lisdexamfetamine",
+    "score": 0.7361090742462272
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Balsalazide",
+    "score": 0.727774399427158
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Pramipexole",
+    "score": 0.7269114678124216
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Nizatidine",
+    "score": 0.7267874046297343
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Etoricoxib",
+    "score": 0.7266611816690055
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Atorvastatin",
+    "score": 0.7266530770324806
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Escitalopram",
+    "score": 0.7263544319830579
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Dronabinol",
+    "score": 0.7189369616028835
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Rosuvastatin",
+    "score": 0.7178629430006456
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Pirbuterol",
+    "score": 0.7147502729198826
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Etidronic acid",
+    "score": 0.7127954389539513
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Miglustat",
+    "score": 0.7115917683163338
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Erythromycin",
+    "score": 0.7109117871314489
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Rabeprazole",
+    "score": 0.7086990851600432
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Clomipramine",
+    "score": 0.7078493126525089
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Baclofen",
+    "score": 0.7053721485817966
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Olanzapine",
+    "score": 0.704559108926543
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Beclomethasone dipropionate",
+    "score": 0.7008801853426548
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Methylergometrine",
+    "score": 0.7008048004156022
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Quinapril",
+    "score": 0.7004825906117988
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Bromodiphenhydramine",
+    "score": 0.698374717041164
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Alclometasone",
+    "score": 0.6961449777571643
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Timolol",
+    "score": 0.6897888239561311
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Salicylic acid",
+    "score": 0.6882726804313908
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Valrubicin",
+    "score": 0.6874138391993238
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Cysteamine",
+    "score": 0.687095290108193
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Daunorubicin",
+    "score": 0.6863377001527912
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Pyridoxine",
+    "score": 0.6783549668527784
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Isosorbide dinitrate",
+    "score": 0.6780810625359599
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Chlorpropamide",
+    "score": 0.6749533359563709
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Clobetasol propionate",
+    "score": 0.6740849060856013
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Levobunolol",
+    "score": 0.6737184138953936
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Clofibrate",
+    "score": 0.6707690884809115
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Treprostinil",
+    "score": 0.6700356452930365
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Moexipril",
+    "score": 0.6692091404658328
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Acetazolamide",
+    "score": 0.6691134303262575
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Enoxaparin",
+    "score": 0.6684439448235056
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Dimetindene",
+    "score": 0.6674509865167626
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Pipobroman",
+    "score": 0.6671764467380743
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Azacitidine",
+    "score": 0.6671329284733734
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Loratadine",
+    "score": 0.6667509160629059
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Naltrexone",
+    "score": 0.6658662556570001
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Clotrimazole",
+    "score": 0.6657634569570652
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Citalopram",
+    "score": 0.6630835532654938
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Spironolactone",
+    "score": 0.6625727650773957
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Leucovorin",
+    "score": 0.6616291935324065
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Methyclothiazide",
+    "score": 0.6582028928197492
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Loxapine",
+    "score": 0.6580955731728476
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Fluocinolone acetonide",
+    "score": 0.6564474572940249
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Benzatropine",
+    "score": 0.6552519001416753
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Sotalol",
+    "score": 0.6529378522435147
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Megestrol acetate",
+    "score": 0.6524256650222008
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Sulfasalazine",
+    "score": 0.6512422333400623
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Desflurane",
+    "score": 0.6475229717136446
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Apomorphine",
+    "score": 0.6465769514589165
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Fosphenytoin",
+    "score": 0.6456895081788032
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Terazosin",
+    "score": 0.6451495911543265
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Adenosine",
+    "score": 0.6450826825565167
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Diclofenamide",
+    "score": 0.6441008427146079
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Lidocaine",
+    "score": 0.6366811560904956
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Estradiol",
+    "score": 0.6350129139033901
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Methadone",
+    "score": 0.6344070801580391
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Tadalafil",
+    "score": 0.6342869673306432
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Cladribine",
+    "score": 0.6332078964464306
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Oxybutynin",
+    "score": 0.63193436838435
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Nandrolone decanoate",
+    "score": 0.6287328492296462
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Guanadrel",
+    "score": 0.6276722401941472
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Phentolamine",
+    "score": 0.6267119233112168
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Zafirlukast",
+    "score": 0.6223146778983653
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Diatrizoate",
+    "score": 0.6220650815784702
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Meclofenamic acid",
+    "score": 0.6218688508467134
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Fluoxymesterone",
+    "score": 0.6217054832788395
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Ketoprofen",
+    "score": 0.6208268063560639
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Inulin",
+    "score": 0.6207513395023907
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Ropinirole",
+    "score": 0.6169542866759699
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Orlistat",
+    "score": 0.615061872509859
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Cyanocobalamin",
+    "score": 0.6136392411036096
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Docetaxel",
+    "score": 0.6132375654604867
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Ipratropium",
+    "score": 0.6110746287567448
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Digoxin",
+    "score": 0.6107159873070828
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Conjugated estrogens",
+    "score": 0.6089757225101344
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Erlotinib",
+    "score": 0.6084786627697595
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Doxepin",
+    "score": 0.6062350239258921
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Indapamide",
+    "score": 0.605188335783836
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Selegiline",
+    "score": 0.6026767639112706
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Bupropion",
+    "score": 0.6015783115638131
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Tenoxicam",
+    "score": 0.6007070321309137
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Butorphanol",
+    "score": 0.5997272199363444
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Desonide",
+    "score": 0.597084632232322
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Buprenorphine",
+    "score": 0.5968792634279708
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Fondaparinux",
+    "score": 0.5937687870122854
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Norgestimate",
+    "score": 0.5932824812245742
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Dicyclomine",
+    "score": 0.5925693015623434
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Nilotinib",
+    "score": 0.5919410199711437
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Chlorpheniramine",
+    "score": 0.5908576549389444
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Diethylpropion",
+    "score": 0.5907235697098686
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Tretinoin",
+    "score": 0.5865129802885753
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Adapalene",
+    "score": 0.5854932018775737
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Metoclopramide",
+    "score": 0.5848937879005687
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Etacrynic acid",
+    "score": 0.5823934156075313
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Epirubicin",
+    "score": 0.5811027229062963
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Anastrozole",
+    "score": 0.5803581674467385
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Glipizide",
+    "score": 0.5791897151127464
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Buspirone",
+    "score": 0.5769585722407473
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Pentoxifylline",
+    "score": 0.5757737243347554
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Ibuprofen",
+    "score": 0.5734504578286619
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Galantamine",
+    "score": 0.573221808599929
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Metipranolol",
+    "score": 0.5709288475334651
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Ivacaftor",
+    "score": 0.5693422073468664
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Melphalan",
+    "score": 0.567789655913364
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Indomethacin",
+    "score": 0.566930137092452
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Donepezil",
+    "score": 0.5657303861972466
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Travoprost",
+    "score": 0.5656514515932587
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Prochlorperazine",
+    "score": 0.5637482297728501
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Captopril",
+    "score": 0.5597562335624052
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Desloratadine",
+    "score": 0.5581567732664962
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Dexrazoxane",
+    "score": 0.5511054968828627
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Chlorzoxazone",
+    "score": 0.5499231719298214
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Naproxen",
+    "score": 0.54927679328735
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Glimepiride",
+    "score": 0.548256609878316
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Ziprasidone",
+    "score": 0.5466184796336323
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Memantine",
+    "score": 0.5447046722623661
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Lenalidomide",
+    "score": 0.5440135273495144
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Pimecrolimus",
+    "score": 0.5437353549408497
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Amphetamine",
+    "score": 0.538946079942067
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Guanidine",
+    "score": 0.5384574182882589
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Dextropropoxyphene",
+    "score": 0.5370568279136554
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Procyclidine",
+    "score": 0.5349293960964377
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Cetirizine",
+    "score": 0.5347564988680927
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Mephenytoin",
+    "score": 0.5343603552994447
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Alfuzosin",
+    "score": 0.5341927913104785
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Diphenidol",
+    "score": 0.5336516043430127
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Amiodarone",
+    "score": 0.532841353995601
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Mitoxantrone",
+    "score": 0.5297717817433434
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Fenoldopam",
+    "score": 0.5293269161091979
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Dasatinib",
+    "score": 0.5285931857910294
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Thioridazine",
+    "score": 0.5284282756686381
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Nebivolol",
+    "score": 0.5253996253008353
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Mequitazine",
+    "score": 0.5224713601723144
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Meloxicam",
+    "score": 0.522049401962422
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Bisoprolol",
+    "score": 0.5207152175659006
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Propylthiouracil",
+    "score": 0.5193675412628223
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Carbinoxamine",
+    "score": 0.5172856497985666
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Choline",
+    "score": 0.5171755765057258
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Methotrexate",
+    "score": 0.5154241215991753
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Lubiprostone",
+    "score": 0.5148358186407743
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Ifosfamide",
+    "score": 0.5142872435013611
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Simvastatin",
+    "score": 0.5102785541642284
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Flutamide",
+    "score": 0.5074535084569867
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Flavoxate",
+    "score": 0.5074355984789131
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Dolasetron",
+    "score": 0.5056163959449703
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Phenobarbital",
+    "score": 0.5050500726147292
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Propafenone",
+    "score": 0.5037004258590765
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Terfenadine",
+    "score": 0.4974903803412086
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Amsacrine",
+    "score": 0.4966422567408608
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Letrozole",
+    "score": 0.4939201035902613
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Phenelzine",
+    "score": 0.4935603154731245
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Disulfiram",
+    "score": 0.4933706876406775
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Carboplatin",
+    "score": 0.4905886310334139
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Almotriptan",
+    "score": 0.4895181409246073
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Levobupivacaine",
+    "score": 0.4886260413335425
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Methoxsalen",
+    "score": 0.48550702368247656
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Ketamine",
+    "score": 0.48493225860768696
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Terbutaline",
+    "score": 0.4833864546812908
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Trihexyphenidyl",
+    "score": 0.4826901648807058
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Cisapride",
+    "score": 0.48260306151250687
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Triamcinolone",
+    "score": 0.48181192577271537
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Amitriptyline",
+    "score": 0.4800784632663926
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Pyridostigmine",
+    "score": 0.47973660335134294
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Cefdinir",
+    "score": 0.474303294222549
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Quinidine",
+    "score": 0.4736771322961135
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Trimetrexate",
+    "score": 0.47209382019838375
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Vinorelbine",
+    "score": 0.46994717503491235
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Zileuton",
+    "score": 0.46768707877091986
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Chloroprocaine",
+    "score": 0.4656264306340685
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Sildenafil",
+    "score": 0.465354445898416
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Thiothixene",
+    "score": 0.4646423786976034
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Irbesartan",
+    "score": 0.4643647928425597
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Liothyronine",
+    "score": 0.46369622535686517
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Diazepam",
+    "score": 0.46325812386768705
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Hydroxyzine",
+    "score": 0.46318213171797284
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Azelastine",
+    "score": 0.4578733463420006
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Drospirenone",
+    "score": 0.4528572900201442
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Telmisartan",
+    "score": 0.4520525238370048
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Methimazole",
+    "score": 0.44774665022545523
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Verteporfin",
+    "score": 0.44581145169013103
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Salsalate",
+    "score": 0.445522273310513
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Progesterone",
+    "score": 0.4413650705016575
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Bromfenac",
+    "score": 0.44132912409592406
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Phenytoin",
+    "score": 0.4412415250040679
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Chloroquine",
+    "score": 0.44110401222163587
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Ethotoin",
+    "score": 0.4400567735373354
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Midodrine",
+    "score": 0.43940929616180147
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Felodipine",
+    "score": 0.43914548307153867
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Ciprofloxacin",
+    "score": 0.43854719843570733
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Salbutamol",
+    "score": 0.438243268714834
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Clemastine",
+    "score": 0.436481200948006
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Prednisolone",
+    "score": 0.43186160351952874
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Glucosamine",
+    "score": 0.4311076664839877
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Lisuride",
+    "score": 0.43012621690058805
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Amifostine",
+    "score": 0.43007655507113574
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Icosapent",
+    "score": 0.4267429480892333
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Ciclopirox",
+    "score": 0.4264519202608521
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Doxazosin",
+    "score": 0.42593498609073155
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Esmolol",
+    "score": 0.42433532122966744
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Methylprednisolone",
+    "score": 0.41742019538428876
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Tolcapone",
+    "score": 0.4120131180667779
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Hydrocodone",
+    "score": 0.41053592807391426
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Nimodipine",
+    "score": 0.4097232105447056
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Oxymorphone",
+    "score": 0.40956436220707393
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Propranolol",
+    "score": 0.40872108869656265
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Ascorbic acid",
+    "score": 0.40748547965855264
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Itraconazole",
+    "score": 0.40586303706030324
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Miglitol",
+    "score": 0.4054987277009394
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Olopatadine",
+    "score": 0.40485755619806674
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Miconazole",
+    "score": 0.40359132044120083
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Tetrabenazine",
+    "score": 0.4035483151585417
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Clobazam",
+    "score": 0.40288980682674136
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Fenofibrate",
+    "score": 0.402857650055668
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Enalapril",
+    "score": 0.40271784569401237
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Magnesium sulfate",
+    "score": 0.4022048110455573
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Pseudoephedrine",
+    "score": 0.3987615548282951
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Reserpine",
+    "score": 0.3970184177684607
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Bexarotene",
+    "score": 0.39443736289711506
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Quetiapine",
+    "score": 0.3925409363234036
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Ibutilide",
+    "score": 0.3867476972289683
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Acebutolol",
+    "score": 0.3829371436029747
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Chlorothiazide",
+    "score": 0.3794625562440772
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Clonazepam",
+    "score": 0.3781423973857483
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Betamethasone",
+    "score": 0.37537670462121675
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Levofloxacin",
+    "score": 0.37368552259463117
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Calcifediol",
+    "score": 0.3715256324104481
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Emedastine",
+    "score": 0.3713736877767836
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Lovastatin",
+    "score": 0.37000665417723044
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Nadolol",
+    "score": 0.36769849393585274
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Diphenylpyraline",
+    "score": 0.3675970638104359
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Hydroxyurea",
+    "score": 0.3672260875326431
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Cytarabine",
+    "score": 0.3657741428728143
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Nicergoline",
+    "score": 0.36549930155548416
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Entacapone",
+    "score": 0.3639127176576613
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Modafinil",
+    "score": 0.35964795783651704
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Piroxicam",
+    "score": 0.35897907750147484
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Colchicine",
+    "score": 0.3535270503738217
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Alanine",
+    "score": 0.35278376970182024
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Aripiprazole",
+    "score": 0.3505053732678627
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Icatibant",
+    "score": 0.35038359791414286
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Sitaxentan",
+    "score": 0.35020751400869443
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Tacrine",
+    "score": 0.3499880162314485
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Pheniramine",
+    "score": 0.3497216936505364
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Cinacalcet",
+    "score": 0.34758187736751067
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Sulindac",
+    "score": 0.3446823744095341
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Etoposide",
+    "score": 0.34432363380011244
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Bicalutamide",
+    "score": 0.34318190995708064
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Eletriptan",
+    "score": 0.33819059728665113
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Pioglitazone",
+    "score": 0.3369233853410961
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Ketorolac",
+    "score": 0.3362344152546185
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Promethazine",
+    "score": 0.3347987387406286
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Clofarabine",
+    "score": 0.3334947006143839
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Nandrolone phenpropionate",
+    "score": 0.33192655044147645
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Alosetron",
+    "score": 0.33075805229107835
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Pamidronic acid",
+    "score": 0.3305080514261203
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Meprobamate",
+    "score": 0.32948279610150644
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Testosterone",
+    "score": 0.32313092958418776
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Diphenhydramine",
+    "score": 0.32181556041267134
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Guanethidine",
+    "score": 0.3203626419612493
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Niacin",
+    "score": 0.3181847461986643
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Sibutramine",
+    "score": 0.31810090156741844
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Bortezomib",
+    "score": 0.3161762435747508
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Metformin",
+    "score": 0.3156681243757844
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Phenoxybenzamine",
+    "score": 0.3138840024696291
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Butalbital",
+    "score": 0.31263717120600953
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Bethanechol",
+    "score": 0.31112315704224924
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Antazoline",
+    "score": 0.3082636832981892
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Prednisone",
+    "score": 0.3075137706672395
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Lamotrigine",
+    "score": 0.3052998659210806
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Clozapine",
+    "score": 0.3031482968793229
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Gliclazide",
+    "score": 0.3027551732446422
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Capecitabine",
+    "score": 0.29886092040833534
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Pantoprazole",
+    "score": 0.29482256433160803
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Doxylamine",
+    "score": 0.2933289438329125
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Flecainide",
+    "score": 0.2915202437722051
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Pravastatin",
+    "score": 0.29112358417708073
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Everolimus",
+    "score": 0.29078065212429804
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Prilocaine",
+    "score": 0.2906930715644035
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Alprazolam",
+    "score": 0.2886137459096969
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Alendronic acid",
+    "score": 0.2875551686017517
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Eprosartan",
+    "score": 0.2858330457396633
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Thiamine",
+    "score": 0.28564490132378084
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Bimatoprost",
+    "score": 0.28337950307986015
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Benazepril",
+    "score": 0.28044682295458334
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Carbidopa",
+    "score": 0.2776154940247968
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Saquinavir",
+    "score": 0.27743658037166796
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Irinotecan",
+    "score": 0.2750027600204288
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Streptozocin",
+    "score": 0.2705077444026215
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Procaine",
+    "score": 0.26463973445536726
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Raloxifene",
+    "score": 0.26268773497354836
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Acamprosate",
+    "score": 0.2622683464358416
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Imipramine",
+    "score": 0.26215086710700186
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Sorafenib",
+    "score": 0.261564080270004
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Desoximetasone",
+    "score": 0.2613511936876234
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Diltiazem",
+    "score": 0.25910614890828854
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Mexiletine",
+    "score": 0.2587626068220059
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Chlorphenesin",
+    "score": 0.25725100487582475
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Dexbrompheniramine",
+    "score": 0.25333030246157373
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Procainamide",
+    "score": 0.25253270847530696
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Ranitidine",
+    "score": 0.245712248868577
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Clopidogrel",
+    "score": 0.24479971546525447
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Isothipendyl",
+    "score": 0.24376025059720596
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Benzocaine",
+    "score": 0.23995748088751478
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Lapatinib",
+    "score": 0.23970410957091337
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Aminophylline",
+    "score": 0.23905908250006358
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Orciprenaline",
+    "score": 0.23584749536723515
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Disopyramide",
+    "score": 0.23210549614393672
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Dopamine",
+    "score": 0.23063463132107376
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Brompheniramine",
+    "score": 0.2291194274659295
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Ulobetasol",
+    "score": 0.2248102506937968
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Lercanidipine",
+    "score": 0.22430624801195642
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Etodolac",
+    "score": 0.22316337585587753
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Nifedipine",
+    "score": 0.22124443233297097
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Oxcarbazepine",
+    "score": 0.21613317105591623
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Rufinamide",
+    "score": 0.21443253159087639
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Hydroxocobalamin",
+    "score": 0.21235670586653632
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Fosinopril",
+    "score": 0.2121566246456591
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Rifampicin",
+    "score": 0.21068786987503585
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Cinchocaine",
+    "score": 0.21059534559114912
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Theophylline",
+    "score": 0.2067141400559106
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Zonisamide",
+    "score": 0.20461903996033204
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Astemizole",
+    "score": 0.20363554723258004
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Candesartan cilexetil",
+    "score": 0.20341401007922777
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Carteolol",
+    "score": 0.2030158634291015
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Atropine",
+    "score": 0.20290923216978196
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Triprolidine",
+    "score": 0.20152347231549372
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Morphine",
+    "score": 0.20047765731710276
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Mesoridazine",
+    "score": 0.19909640803691975
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Cromoglicic acid",
+    "score": 0.19755680336147297
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Alprostadil",
+    "score": 0.19732014999072256
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Levonorgestrel",
+    "score": 0.19725576822422852
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Rotigotine",
+    "score": 0.19692837658608553
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Lisinopril",
+    "score": 0.19650555007283166
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Tymazoline",
+    "score": 0.1941410971949029
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Estramustine",
+    "score": 0.19298693603054884
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Oxycodone",
+    "score": 0.19221531108645196
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Torasemide",
+    "score": 0.18994016314793005
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Nitroglycerin",
+    "score": 0.18849514464228345
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Mometasone",
+    "score": 0.18724042222329185
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Desogestrel",
+    "score": 0.18646178731349583
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Betaxolol",
+    "score": 0.18583222243450148
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Montelukast",
+    "score": 0.18520416053360278
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Famotidine",
+    "score": 0.18199276762204386
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Tacrolimus",
+    "score": 0.18135539978865012
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Dipyridamole",
+    "score": 0.180802557463408
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Vinblastine",
+    "score": 0.17840382358640405
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Ambenonium",
+    "score": 0.17646865569555503
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Dextromethorphan",
+    "score": 0.17643896785630264
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Sertraline",
+    "score": 0.17461654625234158
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Pilocarpine",
+    "score": 0.17392365611284488
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Imatinib",
+    "score": 0.166477820753419
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Latanoprost",
+    "score": 0.16571467821985741
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Methotrimeprazine",
+    "score": 0.16024580525879706
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Dexamethasone",
+    "score": 0.15824845601765236
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Pindolol",
+    "score": 0.15483357650635787
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Ibandronate",
+    "score": 0.1547006330427323
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Fludarabine",
+    "score": 0.15273493280535877
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Cyclobenzaprine",
+    "score": 0.15185630811465978
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Chlorthalidone",
+    "score": 0.1515599615323696
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Amiloride",
+    "score": 0.1500842856040766
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Ondansetron",
+    "score": 0.14930040030092107
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Decitabine",
+    "score": 0.14828074096894206
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Fulvestrant",
+    "score": 0.14397451370621284
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Allopurinol",
+    "score": 0.14302924724566635
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Paroxetine",
+    "score": 0.14176249818703257
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Doxorubicin",
+    "score": 0.1408653651923636
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Zolmitriptan",
+    "score": 0.14040390808624814
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Rasagiline",
+    "score": 0.13854665690308088
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Tolmetin",
+    "score": 0.13717213819271767
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Granisetron",
+    "score": 0.1371150639742883
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Bleomycin",
+    "score": 0.1338630460205179
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Methylphenidate",
+    "score": 0.13374605968220066
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Cefazolin",
+    "score": 0.12781249562971764
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Gonadorelin",
+    "score": 0.12229621393519241
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Biperiden",
+    "score": 0.12182970652838998
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Ergocalciferol",
+    "score": 0.12167801522970978
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Fluvastatin",
+    "score": 0.12038553437720911
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Pralidoxime",
+    "score": 0.11992932837399783
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Busulfan",
+    "score": 0.11922028598542389
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Cyclosporine",
+    "score": 0.11845622024959379
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Caffeine",
+    "score": 0.11764396192657178
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Chlordiazepoxide",
+    "score": 0.1174679701150464
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Goserelin",
+    "score": 0.11711863194592964
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Phendimetrazine",
+    "score": 0.11633768744137785
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Cocaine",
+    "score": 0.11488094748896194
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Tramadol",
+    "score": 0.11474414082132967
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Mitomycin",
+    "score": 0.1143498187057096
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Pergolide",
+    "score": 0.11325408564166461
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Mesalazine",
+    "score": 0.11265090160094438
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Cabergoline",
+    "score": 0.11170032077308845
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Flunisolide",
+    "score": 0.11132746996214438
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Danazol",
+    "score": 0.10817688026330863
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Nortriptyline",
+    "score": 0.10695753292617016
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Ezetimibe",
+    "score": 0.10685798808766511
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Risedronic acid",
+    "score": 0.1065035634109528
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Levocabastine",
+    "score": 0.1062770739182235
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Atomoxetine",
+    "score": 0.10356056669700842
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Calcitriol",
+    "score": 0.10282209814594123
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Gemcitabine",
+    "score": 0.10232020287143728
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Diclofenac",
+    "score": 0.10013320622279687
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Temozolomide",
+    "score": 0.10008934843807404
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "N-Acetylglucosamine",
+    "score": 0.09985827684554316
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Flurandrenolide",
+    "score": 0.09829036535975855
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Orphenadrine",
+    "score": 0.09622938517809132
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Formoterol",
+    "score": 0.09509361282917883
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Mefenamic acid",
+    "score": 0.09125820932119444
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Warfarin",
+    "score": 0.09034692414908163
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Olsalazine",
+    "score": 0.08923601141557258
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Nalbuphine",
+    "score": 0.08599163255677278
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Valsartan",
+    "score": 0.08511443412744057
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Nitroprusside",
+    "score": 0.0828255809109344
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Dihydroergotamine",
+    "score": 0.08124603885420278
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Hydroxychloroquine",
+    "score": 0.08124370346754906
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Tamsulosin",
+    "score": 0.0806046319440531
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Nedocromil",
+    "score": 0.0789997131034218
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Dyphylline",
+    "score": 0.07804734764784549
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Azathioprine",
+    "score": 0.07620570861636311
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Venlafaxine",
+    "score": 0.07463466442954214
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Duloxetine",
+    "score": 0.07331587288264185
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Amrinone",
+    "score": 0.07310898107233643
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Fluorometholone",
+    "score": 0.0726704743679536
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Celecoxib",
+    "score": 0.07181131812554298
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Azelaic acid",
+    "score": 0.07090358220277393
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Mercaptopurine",
+    "score": 0.07060022982893721
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Clidinium",
+    "score": 0.06386948281217719
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Masoprocol",
+    "score": 0.061190080346548936
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Desipramine",
+    "score": 0.057734618300663954
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Octreotide",
+    "score": 0.057434848542967876
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Olmesartan",
+    "score": 0.052570934330316454
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Profenamine",
+    "score": 0.05149860589308286
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Lansoprazole",
+    "score": 0.050327906008169165
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Brinzolamide",
+    "score": 0.04720920327926792
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Omacetaxine mepesuccinate",
+    "score": 0.04696678623769712
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Auranofin",
+    "score": 0.04606277147505322
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Tetracycline",
+    "score": 0.04392713285709027
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Salmeterol",
+    "score": 0.043750803998558685
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Ardeparin",
+    "score": 0.04366340572879546
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Tioguanine",
+    "score": 0.042150664688187844
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Glyburide",
+    "score": 0.04198956776035756
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Chlorpromazine",
+    "score": 0.0410317694119855
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Lorazepam",
+    "score": 0.04050796385514277
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Naratriptan",
+    "score": 0.040362888524469676
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Dacarbazine",
+    "score": 0.0398331400243187
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Sucralfate",
+    "score": 0.03942495823761716
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Hydromorphone",
+    "score": 0.038498919343842086
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Trimethoprim",
+    "score": 0.029954571928748508
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Cholecalciferol",
+    "score": 0.025992182870304248
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Triflupromazine",
+    "score": 0.023103536117986656
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Isosorbide mononitrate",
+    "score": 0.022590216101781135
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Phenylpropanolamine",
+    "score": 0.022064119138987648
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Rivastigmine",
+    "score": 0.021122149127672185
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Chloropyramine",
+    "score": 0.019449720353780897
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Tizanidine",
+    "score": 0.01919778519260218
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Penbutolol",
+    "score": 0.01818740069786695
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Epoprostenol",
+    "score": 0.018105399598504768
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Desmopressin",
+    "score": 0.017519832968845628
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Frovatriptan",
+    "score": 0.017324155957737952
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Aliskiren",
+    "score": 0.016617282242833875
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Repaglinide",
+    "score": 0.014991632674179689
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Sumatriptan",
+    "score": 0.012640538056808648
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Misoprostol",
+    "score": 0.010128221284582462
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Zoledronic acid",
+    "score": 0.00956864878072694
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Regorafenib",
+    "score": 0.008771511432604462
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Acarbose",
+    "score": 0.007657402592067042
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Ofloxacin",
+    "score": 0.007089078680383332
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Vitamin A",
+    "score": 0.005187693718107789
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Trifluoperazine",
+    "score": 0.003991898846440134
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Alitretinoin",
+    "score": 0.002916087200068862
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Levamisole",
+    "score": 0.0027265939742255885
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Codeine",
+    "score": 0.0016095287407510428
+  },
+  {
+    "disease": "Breast cancer",
+    "drug": "Levocarnitine",
+    "score": 5.03554631825498e-05
+  }
+]
