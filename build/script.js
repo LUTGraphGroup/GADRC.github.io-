@@ -11,7 +11,7 @@ fetch('build/data.json')
         console.error('Error loading JSON data:', error);
     });
 
-const exampleMetabolites = ["Primidone", "Scopolamine", "Hyoscyamine", "Ifosfamide", "Hydrocodone"];
+const exampleMetabolites = ["Ifosfamide", "Hydrocodone","Oxcarbazepine","Levetiracetam"];
 
 function fillExample() {
     const randomIndex = Math.floor(Math.random() * exampleMetabolites.length);
